@@ -4,12 +4,12 @@
 
 ## About Me 🚀
 
-I'm a passionate **Data Analyst** with experience in **Python, Pandas, SQL, and Power BI**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am passionate in **End-to-End Data & AI Solutions** with experience in **Python, Pandas, SQL, and Power BI**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Data manipulation, visualization, and machine learning basics**
+- 🌱 Currently working on: **Data manipulation, visualization, and AI/ML**
 - 🔭 Working on: **Building data projects to analyze real-world datasets and sharing them on GitHub**
 - 🌍 Languages: **Python, SQL | English, Kinyarwanda**
-- 📫 How to reach me: **soniayizerwe@gmail.com**
+- 📫 How to reach me: **soniayizerwe@gmail.com** (personal email.
 - ⚡ Fun fact: **I enjoy connecting aviation and data by exploring how analytics can improve flight operations and safety.**
 
 
