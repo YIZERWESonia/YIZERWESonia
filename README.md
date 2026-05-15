@@ -1,78 +1,71 @@
-```markdown
-# Hi there, I'm Yizerwe Sonia 👋
+```markdown id="n4x7dp"
+# Hi, I'm Yizerwe Sonia 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
-</p>
-
-<h3 align="center">Data Analytics | AI Data Operations | Annotation QA | Automation</h3>
+### Data Analytics | AI Data Operations | Annotation QA | Automation
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a Data-driven Specialist with experience in AI data operations, data annotation, automation workflows, and operational support at Zipline. I enjoy working with data to improve workflows, solve operational problems, and support machine learning systems.
 
 My background combines data analytics, AI data quality, and mechatronics engineering, with hands-on experience in Python, SQL, dashboards, and annotation tools.
 
-- 🌱 Currently learning: **Data Analytics, Machine Learning, and AI/ML workflows**
-- 🔭 Working on: **Data analytics projects, QA monitoring systems, and automation workflows**
-- 💡 Interested in: **AI Data Quality, Computer Vision, Operational Analytics, and Automation**
-- 📫 Reach me at: **soniayizerwe@gmail.com**
-- ⚡ Fun fact: **I enjoy connecting aviation, operations, and analytics to improve efficiency and reliability.**
+- 🌱 Currently learning: Data Analytics, Machine Learning, and AI/ML workflows
+- 🔭 Working on: Data analytics projects, QA monitoring systems, and automation workflows
+- 💡 Interested in: AI Data Quality, Computer Vision, Operational Analytics, and Automation
+- 📫 Email: [Sonia Yizerwe](mailto:soniayizerwe@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 ### Programming & Data Tools
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,github,docker,vscode" />
-</p>
+- Python
+- SQL
+- Snowflake
+- Databricks
+- Docker
+- GitHub
+- VS Code
 
 ### Data Analytics & Visualization
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mode_Analytics-1D1D1D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
+- Power BI
+- Tableau
+- Mode Analytics
+- Microsoft Excel
+- Google Sheets
 
 ### Annotation & QA Tools
-<p>
-<img src="https://img.shields.io/badge/Encord-4B8BFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CVAT-6E57E0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LabelBox-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dataloop-00B894?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hasty-F39C12?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/V7-2D3436?style=for-the-badge"/>
-</p>
+- Encord
+- CVAT
+- LabelBox
+- Dataloop
+- Hasty
+- V7
+- Segment.ai
+
+### Engineering & Automation
+- PLC Programming
+- CNC Programming
+- SolidWorks
+- Fusion 360
+- AutoCAD
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 💻 Featured Projects
-
-### 🔧 RW2 Service Request Handling Dashboard
+### RW2 Service Request Handling Dashboard
 **Tools:** Mode Analytics, SQL, Slack
 
 - Designed a dashboard to monitor overdue maintenance requests.
-- Integrated Slack notifications for operational follow-up.
-- Improved visibility of maintenance workflows and reporting.
+- Integrated Slack notifications to improve operational follow-up and reporting.
+- Supported maintenance coordination through data analytics and visualization.
 
 ---
 
-### 📈 Annotation QA Monitoring System
+### Annotation QA Monitoring System
 **Tools:** Python, Power BI, Encord
 
 - Worked on QA monitoring workflows for annotation datasets.
@@ -81,15 +74,15 @@ My background combines data analytics, AI data quality, and mechatronics enginee
 
 ---
 
-### 🔄 Encord to Snowflake Data Pipeline
+### Encord to Snowflake Data Pipeline
 **Tools:** Python, APIs, Snowflake
 
 - Worked on automation workflows for moving annotation data into Snowflake.
-- Improved accessibility of datasets for analytics and reporting.
+- Improved accessibility of datasets for reporting and analytics.
 
 ---
 
-### 🤖 Product Labeling Machine
+### Product Labeling Machine
 **Tools:** Industrial Automation, Mechatronics
 
 - Developed an automated labeling machine for flat and round products.
@@ -97,7 +90,7 @@ My background combines data analytics, AI data quality, and mechatronics enginee
 
 ---
 
-### ⚡ Self-Charging Electric Vehicle
+### Self-Charging Electric Vehicle
 **Tools:** Mechatronics, Automation
 
 - Contributed to a sustainable electric vehicle concept project.
@@ -105,7 +98,7 @@ My background combines data analytics, AI data quality, and mechatronics enginee
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 - Data Analytics Certificate – ALX Africa
 - Data Annotation Certificate – Micro1
@@ -115,19 +108,10 @@ My background combines data analytics, AI data quality, and mechatronics enginee
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/yizerwesonia/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:soniayizerwe@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/yizerwesonia/)
+- [Portfolio Website](https://sites.google.com/d/11MqB3fiYg6nYL48NfR0kM8gNVLlh824i/p/1Yn3rilq6HQUIxskyqIdgjwwbxyih1OJW/edit)
+- [GitHub Profile](https://github.com/YOUR_USERNAME)
+- [Email Me](mailto:soniayizerwe@gmail.com)
 ```
