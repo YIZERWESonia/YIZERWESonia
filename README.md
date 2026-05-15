@@ -1,47 +1,133 @@
-# Hi there, I'm Yizerwe Sonia! 👋
+```markdown
+# Hi there, I'm Yizerwe Sonia 👋
 
-![Banner Image]((https://www.canva.com/design/DAGr1W-y_a8/qN5w_uWbSt1bLuPua6XXMQ/edit))
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</p>
 
-## About Me 🚀
+<h3 align="center">Data Analytics | AI Data Operations | Annotation QA | Automation</h3>
 
-I am passionate in **End-to-End Data & AI Solutions** with experience in **Python, Pandas, SQL, and Power BI**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+---
 
-- 🌱 Currently working on: **Data manipulation, visualization, and AI/ML**
-- 🔭 Working on: **Building data projects to analyze real-world datasets and sharing them on GitHub**
-- 🌍 Languages: **Python, SQL | English, Kinyarwanda**
-- 📫 How to reach me: **soniayizerwe@gmail.com** (personal email.
-- ⚡ Fun fact: **I enjoy connecting aviation and data by exploring how analytics can improve flight operations and safety.**
+## 🚀 About Me
 
+I am a Data-driven Specialist with experience in AI data operations, data annotation, automation workflows, and operational support at Zipline. I enjoy working with data to improve workflows, solve operational problems, and support machine learning systems.
 
-## My Skills 🧠
+My background combines data analytics, AI data quality, and mechatronics engineering, with hands-on experience in Python, SQL, dashboards, and annotation tools.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- 🌱 Currently learning: **Data Analytics, Machine Learning, and AI/ML workflows**
+- 🔭 Working on: **Data analytics projects, QA monitoring systems, and automation workflows**
+- 💡 Interested in: **AI Data Quality, Computer Vision, Operational Analytics, and Automation**
+- 📫 Reach me at: **soniayizerwe@gmail.com**
+- ⚡ Fun fact: **I enjoy connecting aviation, operations, and analytics to improve efficiency and reliability.**
 
-## Featured Projects 💻
+---
 
-### [Data Cleaning & Exploration – Annotations Dataset](#)
-![Project Screenshot](https://img.shields.io/badge/-CSV%20Data-blue?style=flat-square&logo=files&logoColor=white)
+## 🛠️ Tech Stack
 
-This project focuses on **cleaning and exploring a large CSV dataset** using **Python (Pandas, NumPy)**.  
-It demonstrates my ability to **handle missing values, remove unnecessary columns, and prepare data for analysis**.  
-Repository: soon to come
+### Programming & Data Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,github,docker,vscode" />
+</p>
 
-### [Power BI Dashboard – Sales Insights](#)
-![Project Screenshot](https://img.shields.io/badge/-Dashboard-yellow?style=flat-square&logo=power-bi&logoColor=black)
+### Data Analytics & Visualization
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mode_Analytics-1D1D1D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
-A **Power BI dashboard** project analyzing **sales data** to uncover trends and performance insights.  
-Built with **Power BI, Excel, and SQL queries**, this project highlights my ability to **visualize data and generate actionable insights**.  
-Repository: soon to come
+### Annotation & QA Tools
+<p>
+<img src="https://img.shields.io/badge/Encord-4B8BFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CVAT-6E57E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LabelBox-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dataloop-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hasty-F39C12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/V7-2D3436?style=for-the-badge"/>
+</p>
 
+---
 
-## Get in Touch 📬
+## 📊 GitHub Stats
 
-- **Email:** [soniayizerwe@gmail.com](mailto:soniayizerwe@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/yizerwesonia](https://www.linkedin.com/in/yizerwesonia/)  
-- **Portfolio:** [My Portfolio](https://sites.google.com/d/11MqB3fiYg6nYL48NfR0kM8gNVLlh824i/p/1Yn3rilq6HQUIxskyqIdgjwwbxyih1OJW/edit)  
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 💻 Featured Projects
+
+### 🔧 RW2 Service Request Handling Dashboard
+**Tools:** Mode Analytics, SQL, Slack
+
+- Designed a dashboard to monitor overdue maintenance requests.
+- Integrated Slack notifications for operational follow-up.
+- Improved visibility of maintenance workflows and reporting.
+
+---
+
+### 📈 Annotation QA Monitoring System
+**Tools:** Python, Power BI, Encord
+
+- Worked on QA monitoring workflows for annotation datasets.
+- Tracked quality trends and reviewer performance metrics.
+- Supported machine learning data quality processes.
+
+---
+
+### 🔄 Encord to Snowflake Data Pipeline
+**Tools:** Python, APIs, Snowflake
+
+- Worked on automation workflows for moving annotation data into Snowflake.
+- Improved accessibility of datasets for analytics and reporting.
+
+---
+
+### 🤖 Product Labeling Machine
+**Tools:** Industrial Automation, Mechatronics
+
+- Developed an automated labeling machine for flat and round products.
+- Sponsored by Mastercard Foundation at IPRC Kigali.
+
+---
+
+### ⚡ Self-Charging Electric Vehicle
+**Tools:** Mechatronics, Automation
+
+- Contributed to a sustainable electric vehicle concept project.
+- Focused on green transportation and energy innovation.
+
+---
+
+## 🏆 Certifications
+
+- Data Analytics Certificate – ALX Africa
+- Data Annotation Certificate – Micro1
+- HITL QA & Data Quality Management – Datalens
+- Artificial Intelligence Career Essentials (AICE) – ALX
+- Professional Foundations Certificate – ALX
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/yizerwesonia/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:soniayizerwe@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+```
