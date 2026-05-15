@@ -1,7 +1,7 @@
 ```markdown id="n4x7dp"
 # Hi, I'm Yizerwe Sonia 👋
 
-### Data Analytics | AI Data Operations | Annotation QA | Automation
+###  AI Data Operations | AI/ML Data Ops | System operations & Infrastructure | Mechatronics Engineering | Aviation Enthusiast | Promote zero emissions.
 
 ---
 
